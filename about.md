@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+Fernando Guerra is currently enrolled in the University of Michigan Dearborn and is pursuing a degree in Bioengineering.
 
 * Author: Fernando Guerra
 * Github: http://github.com/fernandoguerratutoring
